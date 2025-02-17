@@ -1,2 +1,7 @@
 # Project exclude paths
 /out/
+pertemuan 2.iml
+.idea/vcs.xml
+.idea/modules.xml
+.idea/misc.xml
+.idea/.gitignore
